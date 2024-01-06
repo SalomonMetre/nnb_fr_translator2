@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "140072372671",
+    "project_id": "nnd-fr-translator2",
+    "storage_bucket": "nnd-fr-translator2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140072372671:android:97ccc02a3e6b43596a390a",
+        "android_client_info": {
+          "package_name": "com.example.nnb_fr_translator2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByAc5hPa2Iv12ZQFLqKmp50spbt1Lrwzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
